@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 431926,
+      "balance": 481926,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -140,6 +140,17 @@
       "balance": 0,
       "createdAt": "2025-07-15T02:15:46.426Z",
       "modifiedAt": "2025-07-15T02:15:46.426Z"
+    },
+    {
+      "id": "Hcv5ulDXy",
+      "uuid": "644a4ca2-856a-4ecc-a0d3-e2cbda1be887",
+      "firstName": "Gabriela",
+      "lastName": "Reis",
+      "username": "gabsbank",
+      "password": "$2a$10$EPyD2Iv47XVhztYopv3OSe.MwS.eSItqY3JXaiWYBj/fxSsqmsfhe",
+      "balance": 0,
+      "createdAt": "2025-07-15T03:22:44.673Z",
+      "modifiedAt": "2025-07-15T03:22:44.673Z"
     }
   ],
   "contacts": [
@@ -10150,6 +10161,18 @@
       "status": "complete",
       "createdAt": "2025-07-15T03:19:54.974Z",
       "modifiedAt": "2025-07-15T03:19:54.974Z"
+    },
+    {
+      "id": "iVVNIdRr6",
+      "uuid": "22d245ee-20dd-4f86-86d3-ec02e3cec9a4",
+      "amount": 50000,
+      "description": "Pagamento",
+      "receiverId": "GjWovtg2hr",
+      "senderId": "uBmeaz5pX",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2025-07-15T03:22:29.592Z",
+      "modifiedAt": "2025-07-15T03:22:29.592Z"
     }
   ],
   "likes": [
@@ -10906,6 +10929,16 @@
       "isRead": false,
       "createdAt": "2025-07-15T03:19:54.996Z",
       "modifiedAt": "2025-07-15T03:19:54.996Z"
+    },
+    {
+      "id": "-Y81LVU2hX",
+      "uuid": "5fb8e34d-dc6b-46de-8c96-f7e318dbfdfa",
+      "userId": "GjWovtg2hr",
+      "transactionId": "iVVNIdRr6",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-07-15T03:22:29.613Z",
+      "modifiedAt": "2025-07-15T03:22:29.613Z"
     }
   ],
   "banktransfers": [
@@ -11568,6 +11601,16 @@
       "type": "withdrawal",
       "createdAt": "2025-07-15T03:19:54.979Z",
       "modifiedAt": "2025-07-15T03:19:54.979Z"
+    },
+    {
+      "id": "Q42EL_OlBt",
+      "uuid": "79f193f7-aaa7-44ec-8ac5-65d03e92bb06",
+      "userId": "uBmeaz5pX",
+      "amount": 50000,
+      "transactionId": "iVVNIdRr6",
+      "type": "withdrawal",
+      "createdAt": "2025-07-15T03:22:29.596Z",
+      "modifiedAt": "2025-07-15T03:22:29.596Z"
     }
   ]
 }
