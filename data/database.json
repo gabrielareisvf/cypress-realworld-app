@@ -129,6 +129,17 @@
       "balance": 0,
       "createdAt": "2025-07-15T01:52:52.770Z",
       "modifiedAt": "2025-07-15T01:52:52.770Z"
+    },
+    {
+      "id": "MnzwZxceJ",
+      "uuid": "d9d36d87-b1f4-4104-bdcb-3f610f60e9e5",
+      "firstName": "Joao",
+      "lastName": "Silva",
+      "username": "joaosss",
+      "password": "$2a$10$48MYWPVWVzw1y4B0AEKajOiegmLXjvZHm3.qrAFitWqrM16rI.Oeq",
+      "balance": 0,
+      "createdAt": "2025-07-15T02:15:46.426Z",
+      "modifiedAt": "2025-07-15T02:15:46.426Z"
     }
   ],
   "contacts": [
@@ -308,6 +319,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "PKlbioO3i",
+      "uuid": "5cc4435a-fb68-42d6-8671-b1bfa5be8fa8",
+      "userId": "MnzwZxceJ",
+      "bankName": "joaobank",
+      "accountNumber": "143243555",
+      "routingNumber": "123435435",
+      "isDeleted": false,
+      "createdAt": "2025-07-15T02:16:07.435Z",
+      "modifiedAt": "2025-07-15T02:16:07.435Z"
     }
   ],
   "transactions": [
