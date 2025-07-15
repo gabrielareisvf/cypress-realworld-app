@@ -1,8 +1,9 @@
-import UserRegistration from '../../pages/userRegistration'
+import userData from '../../fixtures/user-data.json';
+import UserRegistrationPage from '../../pages/userRegistrationPage'
 import LoginPage from '../../pages/loginPage'
 
 describe('User Registration Tests', () => {
-  const userRegistration = new UserRegistration()
+  const userRegistration = new UserRegistrationPage()
   const loginPage = new LoginPage()
 
   it('Register Account Success', () => {

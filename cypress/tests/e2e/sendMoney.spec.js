@@ -1,4 +1,3 @@
-import { Send } from "@mui/icons-material";
 import userData from "../../fixtures/user-data.json";
 import LoginPage from "../../pages/loginPage";
 import SendMoneyPage from "../../pages/sendMoneyPage";
