@@ -12,7 +12,7 @@ class LoginPage {
     return selectors;
   }
 
-  acessLoginPage() {
+  accessLoginPage() {
     cy.visit("http://localhost:3000/");
   }
 
